@@ -1,8 +1,8 @@
-
-Flask // (	Construir la aplicación web)
-mysql-connector-python // (Conectar Python con MySQL)
-pandas // (Procesar y organizar datos)
-openpyxl // (Leer archivos Excel)
-reportlab // (Generar reportes PDF)
-python-dotenv // (	Manejar configuración y variables de entorno)
-Flask-WTF // (Formularios y protección CSRF)
+Flask
+mysql-connector-python
+pandas
+openpyxl
+reportlab
+python-dotenv
+Flask-WTF
+requests
